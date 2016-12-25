@@ -168,27 +168,39 @@ a:active {
 	color: #fff;
 }
 
-div#container  {
+div#container {
 	position: absolute;
 	left: 100px;
 	top: 25px;
 }
 
-span.zwei  {font-size: 1rem;}
+span.zwei {
+	font-size: 1rem;
+}
 
 span.headline {
-	color: #999999; }
+	color: #999999; 
+}
 
 span.status {
 	font-size: 0.9rem;
-	color: grey; }
+	color: grey; 
+}
 	
-span.click {font-size: 1.2rem; }
+span.click {
+	font-size: 1.2rem; 
+}
 
-.descr {	color: #888888; }
+.descr {
+	color: #888888; 
+}
 
-.strong {	color: #000000; }
+.strong {
+	color: #000000; 
+}
 
-.copyr {	color: #FFFFFF;	
-			font-size:9px; }
+.copyr {
+	color: #FFFFFF;	
+	font-size:9px; 
+}
 
